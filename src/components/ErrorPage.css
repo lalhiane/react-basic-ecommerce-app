@@ -1,0 +1,12 @@
+.error {
+    padding: 60px 0;
+    text-align: center;
+    font-size: 60px;
+    letter-spacing: 1px;
+}
+
+.error span {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 100px;
+}

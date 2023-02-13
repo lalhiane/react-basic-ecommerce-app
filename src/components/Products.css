@@ -1,0 +1,33 @@
+.products {
+
+    padding: 60px 0;
+
+}
+
+.sec-title {
+
+    margin-bottom: 60px;
+
+    text-align: center;
+
+}
+
+.row {
+    row-gap: 1.5rem;
+}
+
+.card img {
+    height: 450px;
+    padding: 15px;
+}
+
+.card .card-title {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.categories {
+    margin-bottom: 30px;
+    gap: 10px;
+}
